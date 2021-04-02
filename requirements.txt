@@ -70,3 +70,4 @@ wand
 wikipedia
 youtube_dl
 youtube-search-python
+ffmpeg-python>=0.2.0
